@@ -1,7 +1,7 @@
 # 登入帳密系統
 一個使用 Node.js + Express 打造的登入系統驗證，當正確輸入帳號及密碼時，會挑出歡迎頁面，並顯示該用戶的名字，若不正確，則會在原頁提醒帳密錯誤。
 
-##專案畫面
+## 專案畫面
 ### 專案首頁
 <img width="657" alt="index" src="https://user-images.githubusercontent.com/69742330/117444843-94a37080-af6c-11eb-930f-0d2654a46450.png">
 ### 登入成功畫面
